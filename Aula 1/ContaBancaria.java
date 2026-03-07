@@ -1,6 +1,6 @@
 public class ContaBancaria {
     // Atributos privados (encapsulados)
-    private String titular;
+    private final String titular;
     private double saldo;
     
     // Construtor da classe
